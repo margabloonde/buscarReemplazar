@@ -1,0 +1,11 @@
+{
+  "Login": "Login",
+  "Es obligatorio introducir el email": "Email reguired",
+  "Password": "Password",
+  "Es obligatorio introducir la contraseña": "Password required",
+  "¿Has olvidado tu contraseña?": "Forgot your password?",
+  "Introduzca su email": "Please enter your e-mail address",
+  "Cambiar contraseña": "Change password",
+  "Rellena el siguiente formulario para reestablecer tu contraseña": "Please fill out this form to restore your password",
+  "DNI / Pasaporte": "DNI / NIF"
+}

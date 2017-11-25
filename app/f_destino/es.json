@@ -1,0 +1,17 @@
+{
+  "Login": "Login",
+  "Es obligatorio introducir el email": "Es obligatorio introducir el email",
+  "Password": "Password",
+  "Es obligatorio introducir la contraseña": "Es obligatorio introducir la contraseña",
+  "¿Has olvidado tu contraseña?": "¿Ha olvidado tu contraseña?",
+  "Introduzca su email": "Introduzca su email",
+  "Cambiar contraseña": "Cambiar contraseña",
+  "Rellena el siguiente formulario para reestablecer tu contraseña": "Por favor, rellene el siguiente formulario para reestablecer tu contraseña",
+  "Nombre": "Nombre",
+  "Apellidos": "Apellidos",
+  "DNI / Pasaporte": "DNI / NIE",
+  "Nombre ": "Nombre ",
+  "Apellidos ": "Apellidos ",
+  "Email ": "Email ",
+  "Teléfono ": "Teléfono "
+}
